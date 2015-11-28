@@ -10,7 +10,7 @@ thats all.
 '
 LOC=~/.local/share/applications
 TG=telegramdesktop.desktop
-BC=backup_telegramdesktop.desktop
+BC=backup_telegramdesktop.dx
 
 echo "Backup original "$TG". Renamed to: "$BC
 cp $LOC/$TG $LOC/$BC
